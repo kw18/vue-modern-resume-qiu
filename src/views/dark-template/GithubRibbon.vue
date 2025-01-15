@@ -31,7 +31,7 @@
 <script>
 export default {
   name: 'GithubRibbon',
-  data: () => ({ url: 'https://github.com/kw18/vue-modern-resume-qiu.git' }),
+  data: () => ({ url: 'https://github.com/kw18/kw18-vue-modern-resume-qiu.git' }),
 }
 </script>
 
