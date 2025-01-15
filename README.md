@@ -4,10 +4,10 @@
 
 1. Clone this repository.
 ```
-git clone https://github.com/kw18/kw18-vue-modern-resume-qiu.git
+git clone https://github.com/kw18/vue-modern-resume-qiu.git
 ```
 
-2. Go to the cloned directory (e.g. `cd kw18-vue-modern-resume-qiu`).
+2. Go to the cloned directory (e.g. `cd vue-modern-resume-qiu`).
 
 3. Run `npm install`.
 
