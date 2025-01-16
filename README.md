@@ -15,7 +15,7 @@ git clone https://github.com/kw18/vue-modern-resume-qiu.git
 
 5. Preview resume with `npm run serve`.
 
-6. Build it with `npm build`.
+6. Build it with `npm run build`.
 
 ## Contribution
 Feel free to add your own templates, language supports, bug fixes or improvements. Any kind of help is appreciated! If you make any kind of changes to an existing template, please commit them as a new template.
